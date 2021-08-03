@@ -1,0 +1,22 @@
+{
+  "short_name": "JustType",
+  "name": "JustType",
+  "icons": [
+    {
+      "src": "favicon_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon_512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "http://192.168.0.104/js-chat/",
+  "background_color": "#141d2c",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#141d2c",
+  "description": "JustType web chat by Bruno Ferreira"
+}
